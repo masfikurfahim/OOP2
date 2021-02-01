@@ -1,0 +1,6 @@
+D:\OOP2\GetInput\GetInput\bin\Debug\GetInput.exe.config
+D:\OOP2\GetInput\GetInput\bin\Debug\GetInput.exe
+D:\OOP2\GetInput\GetInput\bin\Debug\GetInput.pdb
+D:\OOP2\GetInput\GetInput\obj\Debug\GetInput.csprojResolveAssemblyReference.cache
+D:\OOP2\GetInput\GetInput\obj\Debug\GetInput.exe
+D:\OOP2\GetInput\GetInput\obj\Debug\GetInput.pdb
