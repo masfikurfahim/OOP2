@@ -1,0 +1,12 @@
+D:\OOP2\SumOfAllElementsOfArray\SumOfAllElementsOfArray\bin\Debug\netcoreapp3.1\SumOfAllElementsOfArray.exe
+D:\OOP2\SumOfAllElementsOfArray\SumOfAllElementsOfArray\bin\Debug\netcoreapp3.1\SumOfAllElementsOfArray.deps.json
+D:\OOP2\SumOfAllElementsOfArray\SumOfAllElementsOfArray\bin\Debug\netcoreapp3.1\SumOfAllElementsOfArray.runtimeconfig.json
+D:\OOP2\SumOfAllElementsOfArray\SumOfAllElementsOfArray\bin\Debug\netcoreapp3.1\SumOfAllElementsOfArray.runtimeconfig.dev.json
+D:\OOP2\SumOfAllElementsOfArray\SumOfAllElementsOfArray\bin\Debug\netcoreapp3.1\SumOfAllElementsOfArray.dll
+D:\OOP2\SumOfAllElementsOfArray\SumOfAllElementsOfArray\bin\Debug\netcoreapp3.1\SumOfAllElementsOfArray.pdb
+D:\OOP2\SumOfAllElementsOfArray\SumOfAllElementsOfArray\obj\Debug\netcoreapp3.1\SumOfAllElementsOfArray.AssemblyInfoInputs.cache
+D:\OOP2\SumOfAllElementsOfArray\SumOfAllElementsOfArray\obj\Debug\netcoreapp3.1\SumOfAllElementsOfArray.AssemblyInfo.cs
+D:\OOP2\SumOfAllElementsOfArray\SumOfAllElementsOfArray\obj\Debug\netcoreapp3.1\SumOfAllElementsOfArray.csproj.CoreCompileInputs.cache
+D:\OOP2\SumOfAllElementsOfArray\SumOfAllElementsOfArray\obj\Debug\netcoreapp3.1\SumOfAllElementsOfArray.dll
+D:\OOP2\SumOfAllElementsOfArray\SumOfAllElementsOfArray\obj\Debug\netcoreapp3.1\SumOfAllElementsOfArray.pdb
+D:\OOP2\SumOfAllElementsOfArray\SumOfAllElementsOfArray\obj\Debug\netcoreapp3.1\SumOfAllElementsOfArray.genruntimeconfig.cache

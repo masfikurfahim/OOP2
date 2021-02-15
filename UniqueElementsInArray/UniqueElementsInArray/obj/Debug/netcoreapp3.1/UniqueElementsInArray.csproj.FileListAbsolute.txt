@@ -1,0 +1,12 @@
+D:\OOP2\UniqueElementsInArray\UniqueElementsInArray\obj\Debug\netcoreapp3.1\UniqueElementsInArray.AssemblyInfoInputs.cache
+D:\OOP2\UniqueElementsInArray\UniqueElementsInArray\obj\Debug\netcoreapp3.1\UniqueElementsInArray.AssemblyInfo.cs
+D:\OOP2\UniqueElementsInArray\UniqueElementsInArray\obj\Debug\netcoreapp3.1\UniqueElementsInArray.csproj.CoreCompileInputs.cache
+D:\OOP2\UniqueElementsInArray\UniqueElementsInArray\bin\Debug\netcoreapp3.1\UniqueElementsInArray.exe
+D:\OOP2\UniqueElementsInArray\UniqueElementsInArray\bin\Debug\netcoreapp3.1\UniqueElementsInArray.deps.json
+D:\OOP2\UniqueElementsInArray\UniqueElementsInArray\bin\Debug\netcoreapp3.1\UniqueElementsInArray.runtimeconfig.json
+D:\OOP2\UniqueElementsInArray\UniqueElementsInArray\bin\Debug\netcoreapp3.1\UniqueElementsInArray.runtimeconfig.dev.json
+D:\OOP2\UniqueElementsInArray\UniqueElementsInArray\bin\Debug\netcoreapp3.1\UniqueElementsInArray.dll
+D:\OOP2\UniqueElementsInArray\UniqueElementsInArray\bin\Debug\netcoreapp3.1\UniqueElementsInArray.pdb
+D:\OOP2\UniqueElementsInArray\UniqueElementsInArray\obj\Debug\netcoreapp3.1\UniqueElementsInArray.dll
+D:\OOP2\UniqueElementsInArray\UniqueElementsInArray\obj\Debug\netcoreapp3.1\UniqueElementsInArray.pdb
+D:\OOP2\UniqueElementsInArray\UniqueElementsInArray\obj\Debug\netcoreapp3.1\UniqueElementsInArray.genruntimeconfig.cache

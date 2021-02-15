@@ -1,0 +1,12 @@
+D:\OOP2\OneArrayToAnother\OneArrayToAnother\bin\Debug\netcoreapp3.1\OneArrayToAnother.exe
+D:\OOP2\OneArrayToAnother\OneArrayToAnother\bin\Debug\netcoreapp3.1\OneArrayToAnother.deps.json
+D:\OOP2\OneArrayToAnother\OneArrayToAnother\bin\Debug\netcoreapp3.1\OneArrayToAnother.runtimeconfig.json
+D:\OOP2\OneArrayToAnother\OneArrayToAnother\bin\Debug\netcoreapp3.1\OneArrayToAnother.runtimeconfig.dev.json
+D:\OOP2\OneArrayToAnother\OneArrayToAnother\bin\Debug\netcoreapp3.1\OneArrayToAnother.dll
+D:\OOP2\OneArrayToAnother\OneArrayToAnother\bin\Debug\netcoreapp3.1\OneArrayToAnother.pdb
+D:\OOP2\OneArrayToAnother\OneArrayToAnother\obj\Debug\netcoreapp3.1\OneArrayToAnother.AssemblyInfoInputs.cache
+D:\OOP2\OneArrayToAnother\OneArrayToAnother\obj\Debug\netcoreapp3.1\OneArrayToAnother.AssemblyInfo.cs
+D:\OOP2\OneArrayToAnother\OneArrayToAnother\obj\Debug\netcoreapp3.1\OneArrayToAnother.csproj.CoreCompileInputs.cache
+D:\OOP2\OneArrayToAnother\OneArrayToAnother\obj\Debug\netcoreapp3.1\OneArrayToAnother.dll
+D:\OOP2\OneArrayToAnother\OneArrayToAnother\obj\Debug\netcoreapp3.1\OneArrayToAnother.pdb
+D:\OOP2\OneArrayToAnother\OneArrayToAnother\obj\Debug\netcoreapp3.1\OneArrayToAnother.genruntimeconfig.cache

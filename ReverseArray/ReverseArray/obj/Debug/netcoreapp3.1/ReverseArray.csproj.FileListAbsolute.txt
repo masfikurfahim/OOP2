@@ -1,0 +1,13 @@
+D:\OOP2\ReverseArray\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.exe
+D:\OOP2\ReverseArray\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.deps.json
+D:\OOP2\ReverseArray\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.json
+D:\OOP2\ReverseArray\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.dev.json
+D:\OOP2\ReverseArray\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.dll
+D:\OOP2\ReverseArray\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.pdb
+D:\OOP2\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.csprojAssemblyReference.cache
+D:\OOP2\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfoInputs.cache
+D:\OOP2\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfo.cs
+D:\OOP2\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.csproj.CoreCompileInputs.cache
+D:\OOP2\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.dll
+D:\OOP2\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.pdb
+D:\OOP2\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.genruntimeconfig.cache
