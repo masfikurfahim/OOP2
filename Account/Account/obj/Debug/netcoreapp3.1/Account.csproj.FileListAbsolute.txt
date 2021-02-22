@@ -1,0 +1,13 @@
+D:\OOP2\Account\Account\bin\Debug\netcoreapp3.1\Account.exe
+D:\OOP2\Account\Account\bin\Debug\netcoreapp3.1\Account.deps.json
+D:\OOP2\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.json
+D:\OOP2\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.dev.json
+D:\OOP2\Account\Account\bin\Debug\netcoreapp3.1\Account.dll
+D:\OOP2\Account\Account\bin\Debug\netcoreapp3.1\Account.pdb
+D:\OOP2\Account\Account\obj\Debug\netcoreapp3.1\Account.csprojAssemblyReference.cache
+D:\OOP2\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+D:\OOP2\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+D:\OOP2\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
+D:\OOP2\Account\Account\obj\Debug\netcoreapp3.1\Account.dll
+D:\OOP2\Account\Account\obj\Debug\netcoreapp3.1\Account.pdb
+D:\OOP2\Account\Account\obj\Debug\netcoreapp3.1\Account.genruntimeconfig.cache
